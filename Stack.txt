@@ -1,0 +1,4 @@
+Stack is a class of Collection Framework
+Stack<type> stack = new Stack<>():
+queue <type> q = new LL<>();
+Collection -> Queue -> LL
